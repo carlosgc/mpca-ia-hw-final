@@ -1,6 +1,9 @@
 # Trabalho Final de IA
 Inteligência Artificial do curso de Mestrado Profissional em Computação Aplicada
 
+# *Artigo*
+https://www.overleaf.com/read/tznpqrzgfbqt
+
 # *Metas*
 
 Este trabalho irá utilizar uma Rede Convolucional Profunda de uma dimensão (1D CNN) para identificar movimentos de mãos através sinais de sensores inerciais.
